@@ -142,7 +142,7 @@ export default function Vote() {
                 <RowBetween>
                   <TYPE.white fontSize={14}>
                     <Trans>
-                      UNI tokens represent voting shares in Uniswap governance. You can vote on each proposal yourself
+                      UNI tokens represent voting shares in Cronswap governance. You can vote on each proposal yourself
                       or delegate your votes to a third party.
                     </Trans>
                   </TYPE.white>
@@ -153,7 +153,7 @@ export default function Vote() {
                   target="_blank"
                 >
                   <TYPE.white fontSize={14}>
-                    <Trans>Read more about Uniswap governance</Trans>
+                    <Trans>Read more about Cronswap governance</Trans>
                   </TYPE.white>
                 </ExternalLink>
               </AutoColumn>
